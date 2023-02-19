@@ -1,0 +1,5 @@
+html, body {
+    margin: 0px;
+    background-image: linear-gradient(to bottom right, #00FFFF, #7FFF00);
+    overflow-x: hidden;
+}
